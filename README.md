@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **blindConnect(Anonymous alumni connection platform)**
 
-- 🌱 I’m currently learning **WebRtc**
+- 🌱 I’m currently learning **WebSoxkets**
 
 - 💬 Ask me about **java,JavaScript,React.js node.js**
 

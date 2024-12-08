@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ansh Agrawal</h1>
 <h3 align="center">A MERN Stack developer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on **blindConnect(Anonymous alumni connection platform)**
 
 - 🌱 I’m currently learning **WebSockets**
+
+- 📝 I regularly write articles on [HashNode](https://ansh076.hashnode.dev)
 
 - 💬 Ask me about **java,JavaScript,React.js node.js**
 

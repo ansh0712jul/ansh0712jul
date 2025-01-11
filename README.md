@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [HashNode](https://ansh076.hashnode.dev)
 
-- 💬 Ask me about **java,JavaScript,React.js node.js**
+- 💬 Ask me about **java,JavaScript,TypeScript,React.js node.js**
 
 - 📫 How to reach me **anshagrawal181@gmail.com**
 

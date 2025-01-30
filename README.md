@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Kabadi-Kart**
+- 🔭 I’m currently working on **InstagramClone**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **WebSockets**
 
 - 📝 I regularly write articles on [HashNode](https://ansh076.hashnode.dev)
 

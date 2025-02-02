@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ansh Agrawal</h1>
 <h3 align="center">A MERN Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ece357fa621e26f68d7735b3ed8a5e71e4095becee37d6d8c7d914405bcec0d7/68747470733a2f2f6d617274696e76616c64612e636f6d2f696d672f61626f75742e676966">
 
 - 🔭 I’m currently working on **InstagramClone**
 
 - 🌱 I’m currently learning **WebSockets**
-
-- 📝 I regularly write articles on [HashNode](https://ansh076.hashnode.dev)
-
+- 
 - 💬 Ask me about **java,JavaScript,TypeScript,React.js node.js**
 
 - 📫 How to reach me **anshagrawal181@gmail.com**
